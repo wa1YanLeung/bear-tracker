@@ -1,6 +1,6 @@
 # Bear Tracker
 
-## This app demonstrates the use of Google Map in React. Users can create markers on the map.
+## This app demonstrates the use of Google Map in React. Users can search locations and create markers on the map.
 
 https://bear-tracking.netlify.app/
 
